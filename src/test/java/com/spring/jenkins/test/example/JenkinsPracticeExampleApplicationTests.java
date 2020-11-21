@@ -10,7 +10,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class JenkinsPracticeExampleApplicationTests {
 	
 	
-	private static final Logger LOGGER = LoggerFactory.getLogger(JenkinsPracticeExampleApplicationTests.class);
+	//private static final Logger LOGGER = LoggerFactory.getLogger(JenkinsPracticeExampleApplicationTests.class);
 	
 
 	@Test
