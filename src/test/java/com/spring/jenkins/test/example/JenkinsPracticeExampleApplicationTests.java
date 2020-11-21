@@ -19,6 +19,8 @@ class JenkinsPracticeExampleApplicationTests {
 		
 	LOGGER.info("test runing..");	
 	LOGGER.info("Adding Second Test...");
+	LOGGER.info("Adding Third Test...");
+	
      Assertions.assertEquals(true,true);
 	
 	}
