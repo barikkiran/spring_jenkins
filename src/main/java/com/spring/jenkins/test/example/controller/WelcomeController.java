@@ -14,7 +14,7 @@ public class WelcomeController {
 	
 	
 	@GetMapping(path = "/greeting")
-	public  greeting() {
+	public String greeting() {
 		
 		LOGGER.info("greeting method invoke");
 
